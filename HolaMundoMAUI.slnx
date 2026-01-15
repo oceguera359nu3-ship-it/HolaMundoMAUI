@@ -1,0 +1,30 @@
+<Solution>
+  <Project Path="Holamundo.DisplayAlert/Holamundo.DisplayAlert.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+  <Project Path="HolaMundo.Imagen/HolaMundo.Imagen.csproj" Id="3d840583-2eb6-435d-bfc3-c4e041353e4a">
+    <Deploy Solution="Debug|*" />
+  </Project>
+  <Project Path="HolaMundo.Toas01/HolaMundo.Toas01.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+  <Project Path="HolaMundo02/HolaMundo02.csproj" Id="39476c1b-dd77-4b5e-a716-5adcad738371" />
+  <Project Path="HolaMundoControles01/HolaMundoControles01.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+  <Project Path="HolaMundoLogin/HolaMundoLogin.csproj" Id="7e8b36d1-26a4-41db-b7c5-1b4aa87affe8">
+    <Deploy Solution="Debug|*" />
+  </Project>
+  <Project Path="HolaMundoP1/HolaMundoP1.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+  <Project Path="HolaMundoRFC/HolaMundoRFC.csproj" Id="0aa0cc54-2899-4340-bd79-6a629ad1b122">
+    <Deploy Solution="Debug|*" />
+  </Project>
+  <Project Path="MauiApp1/MauiApp1.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+  <Project Path="Suma2Numero/Suma2Numero.csproj" Id="1593c05e-11d9-4004-8b1b-f7dd8df10af9">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
