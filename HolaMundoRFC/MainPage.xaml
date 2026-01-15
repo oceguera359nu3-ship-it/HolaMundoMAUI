@@ -19,7 +19,7 @@
                 SemanticProperties.HeadingLevel="Level1" />
 
             <Label
-                Text="Welcome to &#10;.NET Multi-platform App UI"
+                Text="R.F.C."
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
@@ -53,10 +53,18 @@
 
             <Button
                 x:Name="CounterBtn"
-                Text="Guardar Datos" 
+                Text="CalcularRFC" 
                 SemanticProperties.Hint="Guarda los datos Ingresados"
                 Clicked="OnCounterClicked"
                 HorizontalOptions="Fill" />
+
+            <Label x:Name="LabelResultadoRfc"
+                   Text="Su RFC aparecerá aquí"
+                   SemanticProperties.HeadingLevel="Level2"
+                   FontSize="18"
+                   HorizontalOptions="Center"
+                   TextColor="Green" />
+            
         </VerticalStackLayout>
     </ScrollView>
 
